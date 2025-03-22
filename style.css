@@ -5,8 +5,8 @@
 }
 
 body {
-  background-color: linen;
-  color: blueviolet;
+  background-color: #fae1c1;
+  color: #6b4226;
   font-size: medium;
   line-height: 1.5;
 }
@@ -23,12 +23,12 @@ ul {
 }
 
 .main {
-  color: blue;
+  color: #6b4246;
   line-height: 2;
 }
 
 .navbar {
-  background-color: black;
+  background-color: #6b4226;
   color: white;
   height: 60px;
 }
@@ -64,11 +64,11 @@ ul {
 
 .navbar a:hover {
   border-bottom: 2px #fff solid;
-  color: #aaa;
+  color: #a8d5ba;
 }
 
 button {
-  background-color: lightgray;
+  background-color: #a8d5ba;
   padding: 5px 10px;
   margin: 5px;
   font-size: large;
@@ -78,11 +78,11 @@ button {
 }
 
 button:hover {
-  color: red;
-  background-color: yellow;
+  color: white;
+  background-color: #684226;
 }
 
 #time {
   font-weight: 800;
-  color: brown;
+  color: #684226;
 }
